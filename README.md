@@ -8,10 +8,13 @@ A music discord bot written in **javascript**, that can be used by users to enjo
 
 ## Manual installation
 
-```
+```bash
 git clone https://github.com/sickgod1/discord-jukebox
+
 cd discord-jukebox
+
 npm install / yarn install
+
 node index.js
 ```
 
