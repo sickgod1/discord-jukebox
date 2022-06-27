@@ -1,5 +1,5 @@
 
-> <img  style="border-radius: 300px;"  src="https://i.postimg.cc/rs4wPZ3d/image-1.png"  width="20"/> Jukebox<strong>5228#</strong><br/>
+> <img  style="border-radius: 300px;"  src="https://i.postimg.cc/rs4wPZ3d/image-1.png"  width="20"/> Jukebox<strong>#5228</strong><br/>
 
 A music discord bot written in **javascript**, that can be used by users to enjoy discord community server by help of our bot.
 
